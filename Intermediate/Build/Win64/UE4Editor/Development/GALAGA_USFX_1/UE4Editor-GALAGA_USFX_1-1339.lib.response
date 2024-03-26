@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GALAGA_USFX_1-1339.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Josue\Documents\Unreal Projects\GALAGA_USFX_1\Intermediate\Build\Win64\GALAGA_USFX_1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Josue\Documents\Unreal Projects\GALAGA_USFX_1\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_1\GALAGA_USFX_1.cpp.obj"
+"C:\Users\Josue\Documents\Unreal Projects\GALAGA_USFX_1\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_1\GALAGA_USFX_1GameMode.cpp.obj"
+"C:\Users\Josue\Documents\Unreal Projects\GALAGA_USFX_1\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_1\GALAGA_USFX_1Pawn.cpp.obj"
+"C:\Users\Josue\Documents\Unreal Projects\GALAGA_USFX_1\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_1\GALAGA_USFX_1Projectile.cpp.obj"
+"C:\Users\Josue\Documents\Unreal Projects\GALAGA_USFX_1\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_1\NaveEnemiga.cpp.obj"
+"C:\Users\Josue\Documents\Unreal Projects\GALAGA_USFX_1\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_1\GALAGA_USFX_1.init.gen.cpp.obj"
+"C:\Users\Josue\Documents\Unreal Projects\GALAGA_USFX_1\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_1\GALAGA_USFX_1GameMode.gen.cpp.obj"
+"C:\Users\Josue\Documents\Unreal Projects\GALAGA_USFX_1\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_1\GALAGA_USFX_1Pawn.gen.cpp.obj"
+"C:\Users\Josue\Documents\Unreal Projects\GALAGA_USFX_1\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_1\GALAGA_USFX_1Projectile.gen.cpp.obj"
+"C:\Users\Josue\Documents\Unreal Projects\GALAGA_USFX_1\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_1\NaveEnemiga.gen.cpp.obj"
+"C:\Users\Josue\Documents\Unreal Projects\GALAGA_USFX_1\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_1\Default.rc2.res"
+/OUT:"C:\Users\Josue\Documents\Unreal Projects\GALAGA_USFX_1\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_1\UE4Editor-GALAGA_USFX_1-1339.lib"

@@ -1,0 +1,5 @@
+C:\Users\Josue\Documents\Unreal Projects\GALAGA_USFX_1\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_1\Definitions.GALAGA_USFX_1.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Josue\Documents\Unreal Projects\GALAGA_USFX_1\Source\GALAGA_USFX_1/PowerUp.h
+C:\Users\Josue\Documents\Unreal Projects\GALAGA_USFX_1\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA_USFX_1\PowerUp.generated.h
